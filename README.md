@@ -64,3 +64,7 @@ vol_3g_mb_9
 
 
 After tagging churners, remove all the attributes corresponding to the churn phase (all attributes having ‘ _9’, etc. in their names).
+
+## Dataset
+
+[To access the dataset](https://drive.google.com/file/d/1SWnADIda31mVFevFcfkGtcgBHTKKI94J/view)
